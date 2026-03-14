@@ -2,10 +2,10 @@
 A comprehensive data science project focused on predicting early-stage breast cancer using machine learning algorithms on the Breast Cancer Wisconsin (Diagnostic) dataset.
 
 
-**Project Overview: **
+**Project Overview:**
 The objective of this project is to develop a predictive model that can classify tumors as malignant or benign based on diagnostic features. By utilizing historical diagnostic data, the project aims to optimize performance and accuracy for early-stage diagnosis, which is crucial for medical decision-making.
 
-**Dataset: **
+**Dataset:**
 The project utilizes the Breast Cancer Wisconsin Dataset, which includes various features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
 
 **Task:** Binary Classification (Malignant vs. Benign).
